@@ -1,8 +1,8 @@
-# Returning Custom Status Codes from Spring Controllers
+# A package of various tutorials about Spring and Java
 
 ## About this project
-https://www.baeldung.com/spring-mvc-controller-custom-http-status-code
+https://www.baeldung.com/start-here
 
 ## Tools
-Spring initializr, Spring Web & intellij idea community 
+Spring initializr, & intellij idea community 
 
